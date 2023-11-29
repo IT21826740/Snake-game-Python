@@ -15,3 +15,6 @@ Eat the red food to grow the snake. Avoid collisions with the boundaries and you
 
  - Python
  - Turtle graphics library
+
+
+ git clone https://github.com/IT21826740/snake-game.git
